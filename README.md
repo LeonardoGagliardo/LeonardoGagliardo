@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A6EBD&height=120&section=header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8FF&width=435&lines=Ol%C3%A1%2C+Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8FFef4f91&width=435&lines=Hello!+Welcome+to+my+profile" alt="Typing SVG" /></a>
+
+
 
 
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
