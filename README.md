@@ -3,8 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8FFef4f91&width=435&lines=Hello!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
 
-
-
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
 
 -  I am from Brazil
@@ -17,7 +15,9 @@
 
 -  How to reach me **leogagliardo@hotmail.com**
 
-
+  <br>
+  <br>
+  <p align="right">Pixel art from https://www.artstation.com/pixeljeff1995</p>
 
 
 <div align="center">  
