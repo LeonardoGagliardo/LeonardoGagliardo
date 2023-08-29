@@ -11,7 +11,7 @@
 
 -  I'm majoring in Computer Science
   
--  I’m currently learning **HTML5 and CSS**
+-  I’m currently learning **HTML5, CSS and Javascript**
 
 -  How to reach me **leogagliardo@hotmail.com**
 
