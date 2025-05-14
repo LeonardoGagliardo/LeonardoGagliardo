@@ -7,13 +7,11 @@
 
 -  I am from Brazil
 
--  I am 25 years old
+-  I am 26 years old
 
 -  I'm majoring in Computer Science
   
--  I’m currently learning **Python**
-
--  How to reach me **leogagliardo@hotmail.com**
+-  I’m currently learning **R**
 
   <br>
   <br>
